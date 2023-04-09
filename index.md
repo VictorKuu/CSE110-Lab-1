@@ -17,7 +17,7 @@ By the way, heres the link to my favorite [YouTube Video.](https://www.youtube.c
 
 [This is the one thing that I love in this world!](CONTRIBUTING.md)
 
-Here's the [link](https://victorkuu.github.io/CSE-110/#classes-im-taking-currently) to my About me in case you get lost
+Here's the [link](hhttps://victorkuu.github.io/CSE110-Lab-1/#about-me) to my About me in case you get lost
 
 ## Classes I'm taking currently
 In no particular order, I am taking:
