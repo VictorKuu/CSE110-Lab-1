@@ -1,5 +1,9 @@
 # Welcome to Victor's User Page!
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, Earl Warren College.](https://warren.ucsd.edu/_images/resources/WarrenCollegeLogo-2020-500.png)
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, my profile picture.](https://media.licdn.com/dms/image/C5603AQFLcuw8qq0P4g/profile-displayphoto-shrink_800_800/0/1590731491635?e=2147483647&v=beta&t=EjI5nI6RzQr0FBXaN-xoXC18gbkDd-1SqkeuJ3bgtM4)
+
 ## About me 
 Greetings! I'm **Victor**! I am a second year computer engineering major at UC San Diego. I think Python is the superb language. Take this question for an example
 >Swap integers without additional variable
